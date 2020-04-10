@@ -2,7 +2,7 @@ import React from 'react';
 
 function Footer(){
     return (
-      <footer>Opinions are authors own</footer>
+      <footer className="foot">Opinions are authors own</footer>
     )
 }
 
